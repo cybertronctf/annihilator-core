@@ -1,1 +1,1 @@
-print("annihilator-core INSERT")
+print("annihilator-core UPDATE")
