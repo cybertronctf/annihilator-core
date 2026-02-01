@@ -1,1 +1,1 @@
-print("annihilator-core UPDATE")
+print("annihilator-core FIX")
